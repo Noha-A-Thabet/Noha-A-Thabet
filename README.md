@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noha-a-thabet&label=Profile%20views&color=0e75b6&style=flat" alt="noha-a-thabet" /> </p>
 
-- 🔭 A Front-End developer with a strong focus on front-end skills like JavaScript , React , Tailwind CSS , HTML , CSS , BootStrap. My goal is to create user-friendly websites , Understanding User Needs and tackle web development challenges. I stay updated by continuously learning to keep pace with the industry changes.
+- 🔭 A Front-End developer with a strong focus on front-end skills like JavaScript , React , Tailwind CSS , MUI , HTML , CSS , BootStrap. My goal is to create user-friendly websites , Understanding User Needs and tackle web development challenges. I stay updated by continuously learning to keep pace with the industry changes.
   
 - 🌎 Based in Berlin
 - 📫You Can Connect me at **nohaashraf25@outlook.com**
